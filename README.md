@@ -1,6 +1,6 @@
-# MSBA-Projects
+# Streamlit & Heroku
 
-This is a tutorial for developping a simple streamlit app and deploy it via Heroku
+## This is a tutorial for developping a simple streamlit app and deploy it via Heroku
 
 Create a Heroku account\
 Install Heroku CLI\
