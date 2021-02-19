@@ -13,7 +13,8 @@ File contains all the libraries that need to be installed for the project to wor
 setup.sh (replace your email inside it)\
 Procfile (replace it your app name inside it)
 
-2-Create A git repositry where you have saved your .py app and the above files (using git init)\ 
+2-Create A git repositry where you have saved your .py app and the above files (using git init) 
+
 3-Open terminal, go to your repository and write the following commands:\
   heroku login\
   heroku create (to create the app)\
