@@ -8,7 +8,7 @@ Install GIT
 
 1-Needed Files:\
 requirements.txt : 
-File contains all the libraries that need to be installed for the project to work. This file can be created manually by going through all files and looking what libraries are used or automatically using something like pipreqs.
+File contains all the libraries that need to be installed for the project to work. This file can be created manually by going through all files and looking what libraries are used or automatically using something like pipreqs.(or pipreqs ./ --encoding=utf-8 in case of encoding error)
 
 setup.sh (replace your email inside it)\
 Procfile (replace it your app name inside it)
